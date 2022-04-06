@@ -1,0 +1,13 @@
+C:\Users\mert\Downloads\OOP-main (4)\OOP-main\04.01\WFA_Abstraction\WFA_AbstractProduct\obj\Debug\WFA_AbstractProduct.csproj.AssemblyReference.cache
+C:\Users\mert\Downloads\OOP-main (4)\OOP-main\04.01\WFA_Abstraction\WFA_AbstractProduct\obj\Debug\WFA_AbstractProduct.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Downloads\OOP-main (4)\OOP-main\04.01\WFA_Abstraction\WFA_AbstractProduct\obj\Debug\WFA_AbstractProduct.Categories.resources
+C:\Users\mert\Downloads\OOP-main (4)\OOP-main\04.01\WFA_Abstraction\WFA_AbstractProduct\obj\Debug\WFA_AbstractProduct.Products.resources
+C:\Users\mert\Downloads\OOP-main (4)\OOP-main\04.01\WFA_Abstraction\WFA_AbstractProduct\obj\Debug\WFA_AbstractProduct.Properties.Resources.resources
+C:\Users\mert\Downloads\OOP-main (4)\OOP-main\04.01\WFA_Abstraction\WFA_AbstractProduct\obj\Debug\WFA_AbstractProduct.Suppliers.resources
+C:\Users\mert\Downloads\OOP-main (4)\OOP-main\04.01\WFA_Abstraction\WFA_AbstractProduct\obj\Debug\WFA_AbstractProduct.csproj.GenerateResource.cache
+C:\Users\mert\Downloads\OOP-main (4)\OOP-main\04.01\WFA_Abstraction\WFA_AbstractProduct\obj\Debug\WFA_AbstractProduct.csproj.CoreCompileInputs.cache
+C:\Users\mert\Downloads\OOP-main (4)\OOP-main\04.01\WFA_Abstraction\WFA_AbstractProduct\bin\Debug\WFA_AbstractProduct.exe.config
+C:\Users\mert\Downloads\OOP-main (4)\OOP-main\04.01\WFA_Abstraction\WFA_AbstractProduct\bin\Debug\WFA_AbstractProduct.exe
+C:\Users\mert\Downloads\OOP-main (4)\OOP-main\04.01\WFA_Abstraction\WFA_AbstractProduct\bin\Debug\WFA_AbstractProduct.pdb
+C:\Users\mert\Downloads\OOP-main (4)\OOP-main\04.01\WFA_Abstraction\WFA_AbstractProduct\obj\Debug\WFA_AbstractProduct.exe
+C:\Users\mert\Downloads\OOP-main (4)\OOP-main\04.01\WFA_Abstraction\WFA_AbstractProduct\obj\Debug\WFA_AbstractProduct.pdb
