@@ -1,0 +1,15 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_UserForm\bin\Debug\WFA_UserForm.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_UserForm\bin\Debug\WFA_UserForm.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_UserForm\bin\Debug\WFA_UserForm.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_UserForm\obj\Debug\WFA_UserForm.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_UserForm\obj\Debug\WFA_UserForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_UserForm\obj\Debug\WFA_UserForm.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_UserForm\obj\Debug\WFA_UserForm.Login.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_UserForm\obj\Debug\WFA_UserForm.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_UserForm\obj\Debug\WFA_UserForm.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_UserForm\obj\Debug\WFA_UserForm.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_UserForm\obj\Debug\WFA_UserForm.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_UserForm\obj\Debug\WFA_UserForm.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_UserForm\obj\Debug\WFA_UserForm.Admin.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_UserForm\obj\Debug\WFA_UserForm.Member.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_UserForm\obj\Debug\WFA_UserForm.Moderator.resources

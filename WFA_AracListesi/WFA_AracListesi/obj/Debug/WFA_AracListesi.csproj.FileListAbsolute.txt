@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_AracListesi\WFA_AracListesi\bin\Debug\WFA_AracListesi.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_AracListesi\WFA_AracListesi\bin\Debug\WFA_AracListesi.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_AracListesi\WFA_AracListesi\bin\Debug\WFA_AracListesi.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_AracListesi\WFA_AracListesi\obj\Debug\WFA_AracListesi.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_AracListesi\WFA_AracListesi\obj\Debug\WFA_AracListesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_AracListesi\WFA_AracListesi\obj\Debug\WFA_AracListesi.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_AracListesi\WFA_AracListesi\obj\Debug\WFA_AracListesi.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_AracListesi\WFA_AracListesi\obj\Debug\WFA_AracListesi.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_AracListesi\WFA_AracListesi\obj\Debug\WFA_AracListesi.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_AracListesi\WFA_AracListesi\obj\Debug\WFA_AracListesi.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_AracListesi\WFA_AracListesi\obj\Debug\WFA_AracListesi.pdb

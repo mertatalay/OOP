@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_Enum\bin\Debug\WFA_Enum.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_Enum\bin\Debug\WFA_Enum.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_Enum\bin\Debug\WFA_Enum.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_Enum\obj\Debug\WFA_Enum.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_Enum\obj\Debug\WFA_Enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_Enum\obj\Debug\WFA_Enum.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_Enum\obj\Debug\WFA_Enum.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_Enum\obj\Debug\WFA_Enum.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_Enum\obj\Debug\WFA_Enum.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_Enum\obj\Debug\WFA_Enum.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Enum\WFA_Enum\obj\Debug\WFA_Enum.pdb

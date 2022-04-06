@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA_Interface", "WFA_Interface\WFA_Interface.csproj", "{230B9515-D3EB-43CC-A8CD-5F9A2CC25056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA_FutbolTakimi", "WFA_FutbolTakimi\WFA_FutbolTakimi.csproj", "{358BE7D2-5745-478E-92BB-8ABC088A5271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{230B9515-D3EB-43CC-A8CD-5F9A2CC25056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230B9515-D3EB-43CC-A8CD-5F9A2CC25056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230B9515-D3EB-43CC-A8CD-5F9A2CC25056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230B9515-D3EB-43CC-A8CD-5F9A2CC25056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{358BE7D2-5745-478E-92BB-8ABC088A5271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358BE7D2-5745-478E-92BB-8ABC088A5271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358BE7D2-5745-478E-92BB-8ABC088A5271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358BE7D2-5745-478E-92BB-8ABC088A5271}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59DB5E79-CB7E-4B27-9124-79D33DABD123}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA_OOPintro", "WFA_OOPintro\WFA_OOPintro.csproj", "{2CAA94D4-CEFA-4B96-8A19-994E1FD97D64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CAA94D4-CEFA-4B96-8A19-994E1FD97D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAA94D4-CEFA-4B96-8A19-994E1FD97D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAA94D4-CEFA-4B96-8A19-994E1FD97D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAA94D4-CEFA-4B96-8A19-994E1FD97D64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E7FD3F-D370-4EE3-85C8-20DF26F74468}
+	EndGlobalSection
+EndGlobal

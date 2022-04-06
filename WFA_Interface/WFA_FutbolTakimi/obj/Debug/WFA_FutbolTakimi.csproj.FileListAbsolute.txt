@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Interface\WFA_FutbolTakimi\bin\Debug\WFA_FutbolTakimi.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Interface\WFA_FutbolTakimi\bin\Debug\WFA_FutbolTakimi.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Interface\WFA_FutbolTakimi\bin\Debug\WFA_FutbolTakimi.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Interface\WFA_FutbolTakimi\obj\Debug\WFA_FutbolTakimi.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Interface\WFA_FutbolTakimi\obj\Debug\WFA_FutbolTakimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Interface\WFA_FutbolTakimi\obj\Debug\WFA_FutbolTakimi.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Interface\WFA_FutbolTakimi\obj\Debug\WFA_FutbolTakimi.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Interface\WFA_FutbolTakimi\obj\Debug\WFA_FutbolTakimi.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Interface\WFA_FutbolTakimi\obj\Debug\WFA_FutbolTakimi.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Interface\WFA_FutbolTakimi\obj\Debug\WFA_FutbolTakimi.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Interface\WFA_FutbolTakimi\obj\Debug\WFA_FutbolTakimi.pdb

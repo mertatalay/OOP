@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Kitap\WFA_Kitap\bin\Debug\WFA_Kitap.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Kitap\WFA_Kitap\bin\Debug\WFA_Kitap.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Kitap\WFA_Kitap\bin\Debug\WFA_Kitap.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Kitap\WFA_Kitap\obj\Debug\WFA_Kitap.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Kitap\WFA_Kitap\obj\Debug\WFA_Kitap.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Kitap\WFA_Kitap\obj\Debug\WFA_Kitap.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Kitap\WFA_Kitap\obj\Debug\WFA_Kitap.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Kitap\WFA_Kitap\obj\Debug\WFA_Kitap.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Kitap\WFA_Kitap\obj\Debug\WFA_Kitap.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Kitap\WFA_Kitap\obj\Debug\WFA_Kitap.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Kitap\WFA_Kitap\obj\Debug\WFA_Kitap.pdb

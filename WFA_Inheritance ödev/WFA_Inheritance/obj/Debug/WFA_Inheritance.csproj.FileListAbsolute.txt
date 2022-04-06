@@ -1,0 +1,10 @@
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_Inheritance\WFA_Inheritance\bin\Debug\WFA_Inheritance.exe.config
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_Inheritance\WFA_Inheritance\bin\Debug\WFA_Inheritance.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_Inheritance\WFA_Inheritance\bin\Debug\WFA_Inheritance.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_Inheritance\WFA_Inheritance\obj\Debug\WFA_Inheritance.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_Inheritance\WFA_Inheritance\obj\Debug\WFA_Inheritance.Form1.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_Inheritance\WFA_Inheritance\obj\Debug\WFA_Inheritance.Properties.Resources.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_Inheritance\WFA_Inheritance\obj\Debug\WFA_Inheritance.csproj.GenerateResource.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_Inheritance\WFA_Inheritance\obj\Debug\WFA_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_Inheritance\WFA_Inheritance\obj\Debug\WFA_Inheritance.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_Inheritance\WFA_Inheritance\obj\Debug\WFA_Inheritance.pdb

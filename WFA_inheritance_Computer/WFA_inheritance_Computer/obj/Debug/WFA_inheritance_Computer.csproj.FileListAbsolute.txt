@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_inheritance_Computer\WFA_inheritance_Computer\obj\Debug\WFA_inheritance_Computer.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_inheritance_Computer\WFA_inheritance_Computer\obj\Debug\WFA_inheritance_Computer.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_inheritance_Computer\WFA_inheritance_Computer\obj\Debug\WFA_inheritance_Computer.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_inheritance_Computer\WFA_inheritance_Computer\obj\Debug\WFA_inheritance_Computer.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_inheritance_Computer\WFA_inheritance_Computer\obj\Debug\WFA_inheritance_Computer.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_inheritance_Computer\WFA_inheritance_Computer\obj\Debug\WFA_inheritance_Computer.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_inheritance_Computer\WFA_inheritance_Computer\bin\Debug\WFA_inheritance_Computer.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_inheritance_Computer\WFA_inheritance_Computer\bin\Debug\WFA_inheritance_Computer.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_inheritance_Computer\WFA_inheritance_Computer\bin\Debug\WFA_inheritance_Computer.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_inheritance_Computer\WFA_inheritance_Computer\obj\Debug\WFA_inheritance_Computer.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_inheritance_Computer\WFA_inheritance_Computer\obj\Debug\WFA_inheritance_Computer.pdb

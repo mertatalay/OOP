@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA_inheritance_Computer", "WFA_inheritance_Computer\WFA_inheritance_Computer.csproj", "{6B43D7FD-1D36-4EED-B46E-49576C10F3ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B43D7FD-1D36-4EED-B46E-49576C10F3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B43D7FD-1D36-4EED-B46E-49576C10F3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B43D7FD-1D36-4EED-B46E-49576C10F3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B43D7FD-1D36-4EED-B46E-49576C10F3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F9F2E99-EAD0-4CF0-885E-67D4E41F0D6D}
+	EndGlobalSection
+EndGlobal

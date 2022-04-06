@@ -1,0 +1,12 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Static\WFA_Static\obj\Debug\WFA_Static.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Static\WFA_Static\obj\Debug\WFA_Static.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Static\WFA_Static\obj\Debug\WFA_Static.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Static\WFA_Static\obj\Debug\WFA_Static.Form2.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Static\WFA_Static\obj\Debug\WFA_Static.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Static\WFA_Static\obj\Debug\WFA_Static.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Static\WFA_Static\obj\Debug\WFA_Static.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Static\WFA_Static\bin\Debug\WFA_Static.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Static\WFA_Static\bin\Debug\WFA_Static.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Static\WFA_Static\bin\Debug\WFA_Static.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Static\WFA_Static\obj\Debug\WFA_Static.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_Static\WFA_Static\obj\Debug\WFA_Static.pdb

@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_UrunYonetimi\WFA_UrunYonetimi\bin\Debug\WFA_UrunYonetimi.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_UrunYonetimi\WFA_UrunYonetimi\bin\Debug\WFA_UrunYonetimi.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_UrunYonetimi\WFA_UrunYonetimi\bin\Debug\WFA_UrunYonetimi.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\OOP\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.pdb
